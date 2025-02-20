@@ -1,0 +1,24 @@
+Key Concepts:
+What is the internet?
+The internet is a global network that connects computers, enabling them to share information through various protocols.
+
+What are packets?
+Packets are small units of data that are transmitted over the internet. Large data like web pages or videos are broken down into packets for efficient transfer and then reassembled at the destination.
+
+Web page vs. Web server vs. Web browser vs. Search engine:
+
+Web page: A document that is viewed in a browser, typically containing text, images, and links.
+Web server: A computer that hosts web pages and responds to requests from browsers.
+Web browser: A software that allows users to view web pages (e.g., Chrome, Firefox).
+Search engine: A tool (like Google) that indexes web pages and helps users find information online.
+Client and Server:
+
+Client: The user’s device (e.g., computer or smartphone) that sends requests for data from a server.
+Server: A computer that provides resources, like web pages, to clients.
+IP Address:
+An IP (Internet Protocol) address is a unique identifier for a device on a network, allowing data to be sent to the correct location.
+
+DNS Servers:
+DNS (Domain Name System) servers translate human-readable domain names (like www.example.com) into IP addresses that computers can understand.
+
+
